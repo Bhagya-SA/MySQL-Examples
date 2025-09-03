@@ -1,5 +1,4 @@
-# MySQL-Examples
-This repo contains MySQL examples from basics to advance.
+
 # MySQL Examples 🚀
 
 This repository contains MySQL examples from Basics to Advanced.
